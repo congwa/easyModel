@@ -9,7 +9,7 @@
 #### 技术栈
 1. node
 2. express
-3. mongodb
+3. mongodb   =>windows环境下需要启动mongodb本地环境
 4. es6
 5. mongoose => https://mongoosejs.com/
 
